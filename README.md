@@ -4,7 +4,7 @@
 
 A beautifully crafted e-commerce website inspired by the ancient **Pattachitra art** of Odisha, India. Subhachitra celebrates traditional craftsmanship while bringing authentic artisan-made artifacts to the modern digital marketplace.
 
-**Live Site:** [https://subhachitra.vercel.app](https://subhachitra.vercel.app)
+**Live Site:** [#)
 
 ---
 
